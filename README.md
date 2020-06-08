@@ -7,6 +7,7 @@ Website used: http://books.toscrape.com/
 ## Prerequisites
 
 - Python 3.6+
+- Pandas
 - BeautifulSoup
 
 ## Usage
